@@ -1,8 +1,6 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# PantryPal
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Pantry pal is an application to assist it’s users in keeping track of grocery items they have purchased, knowing when those items expire, allowing users to find recipes that use the items they currently have, and creating grocery lists within the application. In doing these things for it’s users, PantryPal will help reduce food waste and cut down on grocery costs.  
 
 ## UX Team Members
 
@@ -11,8 +9,6 @@
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
