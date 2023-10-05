@@ -6,9 +6,8 @@
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Chloe Koschnick](https://usabilityengineering.github.io/ux-portfolio-cmkoschnick/)** - Initial Sketches
+* **[Samuel Simpson](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
  
