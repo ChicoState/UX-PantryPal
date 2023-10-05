@@ -1,4 +1,4 @@
 # Wireframes
 ![image](PantryList.png)
-![image](Grocery List.png)
+![image](GroceryList.png)
 ![image](GroceryListPopup.png)
