@@ -25,7 +25,7 @@ Pantry pal is an application to assist it’s users in keeping track of grocery 
 * Development of personas and scenarios confirm the findings of analysis and evaluations.  Users want:
     * A simple and easy to use application
     * An application that is usable anywhere and any time
-* The Sketches and Diagrams implement important features, like additional error tolerances and minimal buttons to contribute to a ***simplified UI***
+* The Sketches and Diagrams implement important features, like additional error tolerances and minimal buttons to contribute to a **simplified UI**
 
 
 [Full phase I report](phaseI/)
