@@ -1,5 +1,5 @@
 # Wireframes
-The home page allows the user to naviate to either their [Pantry](#Pantry) or their [Grocery List](#Grocery-List).
+The home page allows the user to navigate to either their Pantry or their Grocery List.
 
 <img src="PantryPals_homepage.png" alt="image" width="auto" height="300">
 
