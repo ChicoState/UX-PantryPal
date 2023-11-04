@@ -10,6 +10,13 @@ From the Pantry page, the user will be given a few options for interaction depeb
 
 Upon selecting the "Add" button ( the "+" button in the top bar), the user will be prompted to input information about the item they wish to add.  Once the information is typed out and the user clicks "Add Item", the item will be displayed, along with any other previously added otems, to the Pantry.
 
-<img src="MyPantry_w-items.png" alt="image" width="auto" height="300"> <img src="PantryPals_homepage.png" alt="image" width="auto" height="300">
+<img src="MyPantry_AddingItem.png" alt="image" width="auto" height="300">
+ <img src="MyPantry_w-items.png" alt="image" width="auto" height="300"> 
 
+ Additionally, the user has the ability to edit or delete any items within the pantry.
+
+ <img src="MyPantry_editItem.png" alt="image" width="auto" height="300">
+<img src="MyPantry_w-itemsdeleted.png" alt="image" width="auto" height="300">
+
+ 
 ## Grocery List
