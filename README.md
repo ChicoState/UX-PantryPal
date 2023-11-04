@@ -34,10 +34,14 @@ Pantry pal is an application to assist it’s users in keeping track of grocery 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Informal feedback** revealed opportunities for improvement of user satisfaction with the following functionalities:
+   * **Displaying quantity of items**: users have an incomplete view of their pantry when they do not know how much of an item is in their pantry.
+   * Addition of **Sorting Methods**: users want more control over the way that the items in their pantry are sorted.
+* **Cognitive Walkthrough** highlighted areas that had missing or incomplete features that affect the functionality of the app, such as the inability to input an **expiration date**, add an item from their **shopping list to their pantry**, and **track the quantity** of each item.
+* Wireframes illustrate modifications to support previously missing features.
+   * Quantity tracking to give the user a more **complete idea of their pantry** and needs.
+   * Expiration date input for **accurate and specific dates**.
+   * Ability to add an item from the grocery list directly to the pantry which dramatically **decreases the amount of work** needed by the user.
 
 [Full phase II report](phaseII/)
 
