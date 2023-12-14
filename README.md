@@ -49,9 +49,10 @@ Pantry pal is an application to assist it’s users in keeping track of grocery 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* PantryPal **Prototype** application allows for a **high fidelity** look at the application.
+* The **Pilot Test** was conducted and feedback from **real users** was recorded.
+   * Both **Quantitative** and **Qualitative** data was collected.
+   * Data reveales that the PantryPal appliccation is significantly more efficient than competitors.
+* The PantryPal application is well received by users, but users want more **emphasis on visual design** aspects of the application.
 
 [Full phase III report](phaseIII/)
