@@ -4,8 +4,8 @@ Pantry pal is an application to assist it’s users in keeping track of grocery 
 
 ## UX Team Members
 
-* **[Chloe Koschnick](https://usabilityengineering.github.io/ux-portfolio-cmkoschnick/)** - Initial sketches, analysis and evaluations, wireframes
-* **[Samuel Simpson](https://github.com/UsabilityEngineering/ux-portfolio-sbsimp)** - Analysis and evaluations, wireframes
+* **[Chloe Koschnick](https://usabilityengineering.github.io/ux-portfolio-cmkoschnick/)** - Initial sketches, analysis and evaluations, wireframes, prototypes, Script
+* **[Samuel Simpson](https://github.com/UsabilityEngineering/ux-portfolio-sbsimp)** - Analysis and evaluations, wireframes, prototypes, Script
 
 # User-Centered Design Artifacts
  
