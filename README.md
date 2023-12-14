@@ -52,7 +52,7 @@ Pantry pal is an application to assist it’s users in keeping track of grocery 
 * PantryPal **Prototype** application allows for a **high fidelity** look at the application.
 * The **Pilot Test** was conducted and feedback from **real users** was recorded.
    * Both **Quantitative** and **Qualitative** data was collected.
-   * Data reveales that the PantryPal appliccation is significantly more efficient than competitors.
+   * Data revealed that the PantryPal application is significantly more efficient than competitors.
 * The PantryPal application is well received by users, but users want more **emphasis on visual design** aspects of the application.
 
 [Full phase III report](phaseIII/)
