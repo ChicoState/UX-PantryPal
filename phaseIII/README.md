@@ -20,6 +20,8 @@ The process for **Task 2** is identical to Task 1.  For Task 2, the Facilitator 
 
 Once Task 2 has completed and all information from the tasks has been recorded, the Facilitator begins the **Debrief**.  The debrief aims to gather qualitative feedback from the participant about their experience using both applications.  The Facilitator asks participants questions about the features they liked and disliked on each application, as well as which application between the two they preferred.  The Facilitator records the participant's responses to each question, then thanks the participant for their time and the Pilot Test concludes.
 
+After the entire Pilot Test is finished, Facilitators record the data ollected, without any identifying information, into a [data speadsheet](data_spreadsheet.pdf) for refference and analysis later on.
+
 ## Findings
 
 The quantitative findings from Task 1 revealed that 5 out of 6 participants completed the task faster with the PantryPal prototype than with the competitor's application.  Of the participants that completed the task faster on the PantryPal application, the task was completed between 18% to 66% faster than on the competitor's application. All participants successfully completed the task on both applications.  The quantitative findings from Task 2 revealed that 100% of the participants completed the task faster on the PantryPal Prototype than on the competitor's application.  The speed up ranged between 51% to 76%.  All participants successfully completed Task 2 on the PantryPal application, however 2/6 participants did not successfully complete Task 2 on the competitor application.  
